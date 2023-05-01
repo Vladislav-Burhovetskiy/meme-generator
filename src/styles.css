@@ -16,6 +16,8 @@ body {
 main.dark {
   background-color: #580972;
   height: 100vh;
+  width: 100%;
+  position: fixed;
 }
 
 .header {
@@ -153,7 +155,7 @@ nav.dark .toggler--slider--circle {
 }
 
 nav.dark .toggler--light {
-  color: #918e9b;
+  color: #d5d4d8;
 }
 
 .toggler--dark {
